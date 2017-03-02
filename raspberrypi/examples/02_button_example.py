@@ -3,7 +3,7 @@
 This example will tell us the status of a button every second.
 
 Required components:
-    - 1 p ush button
+    - 1 push button
     - 2 wires
     - breadboard
     - Pi Cobbler breakout board and cable
